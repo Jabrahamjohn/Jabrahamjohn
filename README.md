@@ -23,7 +23,7 @@
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=c++,c,php,bootstrap,css,discord,django,express,git,github,gitlab,heroku,html,java,js,linux,mongodb,mysql,nodejs,ps,py,selenium,ts,vscode&perline=10">
+  <img src="https://skillicons.dev/icons?i=c,php,bootstrap,css,discord,django,express,git,github,gitlab,heroku,html,java,js,linux,mongodb,mysql,nodejs,ps,py,selenium,ts,vscode&perline=10">
 </p>
 
 

@@ -39,4 +39,11 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jabrahamjohn&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
 
+ <h2 align="center">🏆 Github Profile Trophy</h2>
+ <br />
+ <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=jabrahamjohn&column=8&theme=darkhub"/>
+  </a>
+ </p>
 </div>

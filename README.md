@@ -21,11 +21,11 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
 <p align="center">
-<a href="https://linkedin.com/in/jabrahamjohns" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="abhinandanraj" /></a>
-<a href="https://github.com/jabrahamjohn" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="abhinandanraj" /></a>
-<a href="mailto:netsaj4@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="abhinandanraj" /></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jabrahamjohn&label=Visitors&color=0088cc&style=flat-square" alt="abhinandanraj" /> </p>
-
+<a href="https://linkedin.com/in/jabrahamjohns" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="ajnets" /></a>
+<a href="https://ajnets.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"></a>
+<a href="mailto:netsaj4@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="ajnets"></a>
+ <p align="center"> <img src="https://u8views.com/api/v1/github/profiles/79409258/views/day-week-month-total-count.svg"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jabrahamjohn&label=Visitors&color=0088cc&style=flat-square" alt="visitors"> </p>
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
@@ -43,8 +43,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jabrahamjohn&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
 
  <h2 align="center">🏆 Github Profile Trophy</h2>
- <br />
- <p align="center">
+  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
    <img src="https://github-profile-trophy.vercel.app/?username=jabrahamjohn&column=8&theme=darkhub"/>
   </a>

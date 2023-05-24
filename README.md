@@ -8,7 +8,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jabrahamjohn&label=Profile%20views&color=0e75b6&style=flat" alt="jabrahamjohn" /> </p>
  
 <div style="display:flex">
-  <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+  <img align="right" alt="coding_img" width="350" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
   </p>
 
 - 🔭 I’m currently working on [low level programming](https://github.com/Jabrahamjohn/alx-low_level_programming)

@@ -48,4 +48,9 @@
    <img src="https://github-profile-trophy.vercel.app/?username=jabrahamjohn&column=8&theme=darkhub"/>
   </a>
  </p>
+
+ <h2 align="centre">TRYHACKME BADGES</h2>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/netsaj4.png" alt="TryHackMe" width="460" height="200">
+
 </div>

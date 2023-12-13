@@ -11,9 +11,9 @@
   <img align="right" alt="coding_img" width="350" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
   </p>
 
-- 🔭 I’m currently working on [low level programming](https://github.com/Jabrahamjohn/alx-higher_level_programming)
+- 🔭 I’m currently working on [system engineering devops](https://github.com/Jabrahamjohn/alx-system_engineering-devops)
 
-- 🌱 I’m currently learning **Automation with python**
+- 🌱 I’m currently learning **Automation with python**<br>**cybersecurity**
 
 - 👯 I’m looking to collaborate on **python,web and any other projects**
 </div>

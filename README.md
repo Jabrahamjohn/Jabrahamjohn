@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [system engineering devops](https://github.com/Jabrahamjohn/alx-system_engineering-devops)
 
-- 🌱 I’m currently learning **Automation with python**<br>**cybersecurity**
+- 🌱 I’m currently learning <br>**Automation with python**<br>**cybersecurity**
 
 - 👯 I’m looking to collaborate on **python,web and any other projects**
 </div>

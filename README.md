@@ -49,8 +49,10 @@
   </a>
  </p>
 
- <h2 align="centre">TRYHACKME BADGES</h2>
+ <h2 align="centre">BADGES</h2>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/netsaj4.png" alt="TryHackMe" width="460" height="200">
+
+![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)]
 
 </div>

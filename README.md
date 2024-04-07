@@ -22,7 +22,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/jabrahamjohns" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="ajnets" /></a>
-<a href="https://ajnets.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"></a>
+<a href="https://green-smoke-0da63c60f.5.azurestaticapps.net/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"></a>
 <a href="mailto:netsaj4@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="ajnets"></a>
  <p align="center"> <img src="https://u8views.com/api/v1/github/profiles/79409258/views/day-week-month-total-count.svg"> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jabrahamjohn&label=Visitors&color=0088cc&style=flat-square" alt="visitors"> </p>

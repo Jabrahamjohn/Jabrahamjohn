@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Backend Development](https://github.com/Jabrahamjohn/alx-backend-python)
 
-- 🌱 I’m currently learning <br>**Automation with python**<br>**cybersecurity**
+- 🌱 I’m currently learning <br>**Backend storage**<br>**cybersecurity**
 
 - 👯 I’m looking to collaborate on **python,web and any other projects**
 </div>

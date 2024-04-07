@@ -11,7 +11,7 @@
   <img align="right" alt="coding_img" width="350" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
   </p>
 
-- 🔭 I’m currently working on [Back end Development](https://github.com/Jabrahamjohn/alx-backend-python)
+- 🔭 I’m currently working on [Backend Development](https://github.com/Jabrahamjohn/alx-backend-python)
 
 - 🌱 I’m currently learning <br>**Automation with python**<br>**cybersecurity**
 

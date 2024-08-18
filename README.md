@@ -27,7 +27,7 @@
  <p align="center"> <img src="https://u8views.com/api/v1/github/profiles/79409258/views/day-week-month-total-count.svg"> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jabrahamjohn&label=Visitors&color=0088cc&style=flat-square" alt="visitors"> </p>
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Languages & Tools:</h2>
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=c,php,bootstrap,css,discord,django,express,git,github,gitlab,heroku,html,java,js,linux,mongodb,mysql,nodejs,ps,py,selenium,ts,vscode&perline=10">
 </p>
